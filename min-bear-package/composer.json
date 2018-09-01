@@ -1,0 +1,5 @@
+{
+    "require": {
+        "bear/package": "^1.8"
+    }
+}
